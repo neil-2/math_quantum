@@ -9,6 +9,8 @@ author_profile: false
 ### Project Idea
 I want to explore how we can use quantum algorithms to find the most efficient grocery delivery routes. I will use matricies and algorithms to optimize.
 
+
+Keeping this for now, will delete later just need them as refrence
 Complex numbers are numbers with a *real component* and an *imaginary component* a + bi, where a and b are **real numbers** and i is the **imaginary unit**
 An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number)
 
