@@ -5,7 +5,6 @@
 layout: single
 author_profile: false
 ---
-# Optimizing Delivery Routes with Quantum Algorithms
 ### Project Idea
 I want to explore how we can use quantum algorithms to find the most efficient grocery delivery routes. I will use matrices and algorithms to optimize.
 
