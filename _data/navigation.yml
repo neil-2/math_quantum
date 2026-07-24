@@ -3,5 +3,7 @@ main:
     url: /
   - title: "Tools & Techniques"
     url: /tools/
+  - title: "Goals"
+    url: /goals/
   - title: "References"
     url: /references/
