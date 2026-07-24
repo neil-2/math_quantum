@@ -3,4 +3,8 @@ permalink: /tools/
 title: "Tools & Techniques"
 ---
 
-Minute Math. (2024). The Traveling Salesman Problem Explained in under 5 mins | Graph Theory Basics. In _YouTube_. https://www.youtube.com/watch?v=V4OKrnAxpiM
+### Matrices
+Matrices can be used to determine the distance between two different locations (such as the numbers inside of the matrices being the distance between two areas). This gives a mathematical way to create and compare different routes to the destinations. Note that it's also possible to represent this with Graph Theory by using vectors as delivery paths with the magnitude being distance.
+
+### Quantum Algorithms
+The main issue of this project is around the Traeveling Salesman Problem, which could be solved with the Quantum Approximate Optimization Algorithm (QAOA). The QAOA is an algorithm I researched that finds the best solutions to optimzation problems. If I continue this work, I may try to experiment with the QAOA in platforms such as Qiskit to try and optimize.
