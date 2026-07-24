@@ -3,6 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
+title: "Optimizing Delivery Routes with Quantum Algorithms"
 author_profile: false
 ---
 ### Project Idea
