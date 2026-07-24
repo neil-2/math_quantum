@@ -8,4 +8,5 @@ Matrices can be used to determine the distance between two different locations (
 
 ### Quantum Algorithms
 The main issue of this project is around the Traeveling Salesman Problem, which could be solved with the Quantum Approximate Optimization Algorithm (QAOA). The QAOA is an algorithm I researched that finds the best solutions to optimzation problems. If I continue this work, I may try to experiment with the QAOA in platforms such as Qiskit to try and optimize.
+
 -> Next, view the [Goals](https://neil-2.github.io/math_quantum/goals/) page here!
